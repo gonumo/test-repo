@@ -1,0 +1,7 @@
+total 52
+drwxrwxr-x 3 gonzalo gonzalo  4096 sep 17 10:55 ./
+drwxr-xr-x 8 gonzalo gonzalo  4096 sep 17 10:55 ../
+drwxrwxr-x 8 gonzalo gonzalo  4096 sep 17 10:55 .git/
+-rw-rw-r-- 1 gonzalo gonzalo 35149 sep 17 10:55 LICENSE
+-rw-rw-r-- 1 gonzalo gonzalo     0 sep 17 10:55 lista.txt
+-rw-rw-r-- 1 gonzalo gonzalo    29 sep 17 10:55 README.md
